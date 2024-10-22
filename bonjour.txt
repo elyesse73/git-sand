@@ -1,0 +1,12 @@
+Hello
+Bonjour la classe !
+
+Modification à droite à gauche
+
+Je modifie au milieu le fichier bonjour
+
+Rajouter un message ici
+
+Comment ça va ce matin ?
+
+Je vais rajouter plusieurs lignes en plus
